@@ -29,6 +29,24 @@
     ]
   },
   "knowledge": {
+    "languages": [
+      {
+        "name": "Basque",
+        "level": "Full professional proficiency"
+      },
+      {
+        "name": "English",
+        "level": "Limited working proficiency"
+      },
+      {
+        "name": "Galician",
+        "level": "Full professional proficiency"
+      },
+      {
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
     "hardSkills": [
       {
         "skill": {
