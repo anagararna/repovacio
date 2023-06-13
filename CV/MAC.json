@@ -87,6 +87,23 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Vegalsa"
+        },
+        "roles": [
+          {
+            "name": "Responsable ventas minorista",
+            "startDate": "1999-12-01",
+            "finishDate": "2007-04-01",
+            "challenges": [
+              {
+                "description": "Aptitudes: Resolución de incidencias · Gestión empresarial · Atención al cliente · Gerencia de tiendas · Ventas"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
