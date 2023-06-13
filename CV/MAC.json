@@ -313,23 +313,11 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
-        "name": "Github",
-        "type": "technology"
-      },
-      {
-        "name": "Jira",
-        "type": "technology"
-      },
-      {
         "name": "Laravel",
         "type": "technology"
       },
       {
         "name": "Python",
-        "type": "technology"
-      },
-      {
-        "name": "React",
         "type": "technology"
       }
     ],
