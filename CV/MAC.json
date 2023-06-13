@@ -197,6 +197,27 @@
       {
         "studyType": "unaccredited",
         "degreeAchieved": true,
+        "name": "Analítica Web y Marketing Digital",
+        "startDate": "2022-08-01",
+        "institution": {
+          "name": "Liderak",
+          "description": " Aprendí sobre los componentes del marketing digital y el comportamiento de los usuarios de internet. Además, me introdujeron en el branding y el posicionamiento web. Con este curso, pude llevar a cabo estrategias básicas de marketing digital y construir una estrategia adaptada al comportamiento internauta. También aprendí sobre los factores que influyen en el posicionamiento orgánico. "
+        },
+        "finishDate": "2022-10-01",
+        "linkedCompetences": [
+          {
+            "name": "Google Analytics",
+            "type": "technology"
+          },
+          {
+            "name": "Google Search Console",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
         "name": "Bootcamp desarrollo web Full Stack 850h",
         "startDate": "2022-10-01",
         "institution": {
@@ -301,6 +322,10 @@
       },
       {
         "name": "Laravel",
+        "type": "technology"
+      },
+      {
+        "name": "Python",
         "type": "technology"
       },
       {
