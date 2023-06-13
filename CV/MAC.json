@@ -223,6 +223,38 @@
       },
       {
         "studyType": "unaccredited",
+        "degreeAchieved": false,
+        "name": "Automatización de TI de Google con Python 350h.",
+        "startDate": "2023-06-01",
+        "institution": {
+          "name": "Coursera",
+          "description": " Durante el programa, adquirí las habilidades más demandadas en el campo de TI, incluyendo Python, Git y automatización de TI.\nAprendí cómo escribir código en Python para resolver problemas y automatizar soluciones.\nEl programa se enfocó en fortalecer mis fundamentos en TI y me proporcionó conocimientos sólidos sobre la programación con Python. Además, aprendí a utilizar Python para automatizar tareas comunes de administración de sistemas. También adquirí más habilidades en el uso de Git y GitHub, así como en la resolución y depuración de problemas complejos. Además, pude aplicar técnicas de automatización a gran escala utilizando herramientas de administración de configuración y la nube."
+        },
+        "linkedCompetences": [
+          {
+            "name": "Atom",
+            "type": "technology"
+          },
+          {
+            "name": "Bash",
+            "type": "technology"
+          },
+          {
+            "name": "Linux",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          },
+          {
+            "name": "Ubuntu",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
         "degreeAchieved": true,
         "name": "Bootcamp desarrollo web Full Stack 850h",
         "startDate": "2022-10-01",
@@ -328,6 +360,10 @@
       },
       {
         "name": "Laravel",
+        "type": "technology"
+      },
+      {
+        "name": "Python",
         "type": "technology"
       },
       {
