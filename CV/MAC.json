@@ -203,7 +203,7 @@
       {
         "studyType": "unaccredited",
         "degreeAchieved": true,
-        "name": "Analítica Web y Marketing Digital",
+        "name": "Analítica Web y Marketing Digital 65h.",
         "startDate": "2022-08-01",
         "institution": {
           "name": "Liderak",
@@ -294,6 +294,38 @@
           "name": "CIFP Someso"
         },
         "finishDate": "2019-06-01"
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Posicionamiento Web SEO SEM",
+        "startDate": "2022-01-01",
+        "institution": {
+          "name": "Liderak"
+        },
+        "finishDate": "2023-05-01",
+        "linkedCompetences": [
+          {
+            "name": "Ahrefs",
+            "type": "technology"
+          },
+          {
+            "name": "Google Analytics",
+            "type": "technology"
+          },
+          {
+            "name": "Google Search Console",
+            "type": "technology"
+          },
+          {
+            "name": "Majestic",
+            "type": "technology"
+          },
+          {
+            "name": "Semrush",
+            "type": "technology"
+          }
+        ]
       }
     ],
     "softSkills": [
