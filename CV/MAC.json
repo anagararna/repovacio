@@ -201,9 +201,30 @@
         "startDate": "2022-10-01",
         "institution": {
           "name": "Factoria F5",
-          "description": "Historias de usuarios · Modelo-Vista-Controlador (MVC) · Integración · jQuery · Programación orientada a objetos (POO) · Diseño web adaptable · Diseño de front-end · Resolución de incidencias · Control de versiones · Node.js · Aplicaciones web · Desarrollo Full Stack · Desarrollo front end · HTML5 · JavaScript · Hojas de estilos en cascada (CSS) · SASS · Bootstrap · React.js · Testing Js · PHP · PhpMyAdmin · MySQL · PHPUnit · Laravel · API de Postman · Figma · penpot · Scrum · Metodologías ágiles · Atomic desing · Git · Despliegue de sistemas · Lucidchart · JIRA · GitHub"
+          "description": "Historias de usuarios · Modelo-Vista-Controlador (MVC) · Integración · jQuery · Programación orientada a objetos (POO) · Diseño web adaptable · Diseño de front-end · Resolución de incidencias · Control de versiones · Node.js · Aplicaciones web · Desarrollo Full Stack · Desarrollo front end · HTML5 · JavaScript · Hojas de estilos en cascada (CSS) · SASS · Bootstrap · React.js · Testing Js · PHP · PhpMyAdmin · MySQL · PHPUnit · Laravel · API de Postman · Figma · penpot · Scrum · Metodologías ágiles · Atomic desing · Git · Despliegue de sistemas · Lucidchart · JIRA · GitHub",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/13/cb2fc5c9-2235-4580-896c-2b62eb461e5b_logo-ff5-(1).png",
+            "alt": "Logo FF5 (1).png"
+          }
         },
         "finishDate": "2023-06-01"
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Dirección de proyectos PMI",
+        "startDate": "2022-08-01",
+        "institution": {
+          "name": "Liderak",
+          "description": "En este curso de dirección de proyectos PMI, aprendí las diferentes áreas del conocimiento que analiza el Project Management Institute (PMI) y que debo dominar como director de proyectos:\n\nMarco de referencia de un proyecto: Me familiarizo con la definición de proyectos, comprendo qué es la gerencia de proyectos y desarrollo habilidades gerenciales como gerente de proyecto. También aprendo sobre el ciclo de vida del proyecto y la identificación de las partes interesadas.\n\nGestión de integración: Aprendo a manejar la integración de los diferentes aspectos del proyecto y a asegurar que todas las partes trabajen juntas de manera efectiva.\n\nGestión de alcance: Adquiero habilidades para definir y controlar el alcance del proyecto, asegurándome de que se cumplan los objetivos establecidos.\n\nGestión de tiempos: Aprendo técnicas y herramientas para planificar y controlar el tiempo del proyecto, asegurando que se cumplan los plazos establecidos.\n\nEstas son algunas de las áreas fundamentales que exploramos en el curso de dirección de proyectos PMI."
+        },
+        "finishDate": "2022-12-01",
+        "linkedCompetences": [
+          {
+            "name": "Confluence",
+            "type": "technology"
+          }
+        ]
       },
       {
         "studyType": "officialDegree",
