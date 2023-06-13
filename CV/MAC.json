@@ -433,6 +433,12 @@
       },
       {
         "skill": {
+          "name": "Proactividad",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
           "name": "Trabajo en equipo",
           "type": "practice"
         }
