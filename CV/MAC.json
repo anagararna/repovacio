@@ -28,6 +28,22 @@
       }
     ]
   },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Carpintería Vilaboa"
+        },
+        "roles": [
+          {
+            "name": "Diseño de muebles, elaboración y montaje.",
+            "startDate": "2018-01-01",
+            "finishDate": "2022-08-01"
+          }
+        ]
+      }
+    ]
+  },
   "knowledge": {
     "languages": [
       {
@@ -206,7 +222,7 @@
         "name": "Analítica Web y Marketing Digital 65h.",
         "startDate": "2022-08-01",
         "institution": {
-          "name": "Liderak",
+          "name": "Fexma",
           "description": " Aprendí sobre los componentes del marketing digital y el comportamiento de los usuarios de internet. Además, me introdujeron en el branding y el posicionamiento web. Con este curso, pude llevar a cabo estrategias básicas de marketing digital y construir una estrategia adaptada al comportamiento internauta. También aprendí sobre los factores que influyen en el posicionamiento orgánico. "
         },
         "finishDate": "2022-10-01",
