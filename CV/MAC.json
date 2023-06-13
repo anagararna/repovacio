@@ -70,6 +70,23 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Recalvi"
+        },
+        "roles": [
+          {
+            "name": "Comercial responsable de departamento",
+            "startDate": "2007-05-01",
+            "finishDate": "2009-06-01",
+            "challenges": [
+              {
+                "description": "Aptitudes: Negociación · Resolución de incidencias · Toma de decisiones · Atención al cliente · Gerencia de tiendas · Ventas · Gestión de personal · Aptitudes de organización"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
