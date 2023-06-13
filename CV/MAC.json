@@ -11,78 +11,70 @@
       "title": "Desarrolladora web FullStack",
       "description": "¡¡HOLA!!😊\nSoy una Junior FullStack Developer apasionada por la tecnología y el desarrollo web. Actualmente estoy completando mi formación en Factoría F5 y me encanta aprender nuevas habilidades y aplicarlas en proyectos reales.🙌\n\nAdemás de mi pasión por el desarrollo web, soy de gustos sencillos disfruto de mi tiempo libre haciendo surf , mountain bike, un buen libro, quedando con amigos y familia. También tengo habilidades en diseño y elaboración de muebles, lo que demuestra mi capacidad de adaptación y aprendizaje.🏄‍♀️🚵‍♂️\n\nMi experiencia incluye habilidades en HTML, CSS, JavaScript, PHP, REACT, Laravel, SASS, FRONT END y BACK END.💻",
       "avatar": {
-        "alt": "IMG_20230128_152425-removebg-preview.png",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/08/9c345840-f9e9-4372-8fc6-acb7d1bac747_img_20230128_152425-.png"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/08/9c345840-f9e9-4372-8fc6-acb7d1bac747_img_20230128_152425-.png",
+        "alt": "IMG_20230128_152425-removebg-preview.png"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJTVd08fx8Lg0R7t9cCQ01R2o)",
         "country": "España",
         "region": "Galicia",
-        "municipality": "La Coruña",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "La Coruña"
       }
     },
     "relevantLinks": [
       {
         "type": "other",
         "URL": "https://anagarciaarnaiz.netlify.app/"
-      },
-      {
-        "type": "github",
-        "URL": "https://github.com/anagararna"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/anagararna/"
       }
     ]
   },
   "knowledge": {
     "languages": [
       {
-        "name": "Basque",
-        "level": "Full professional proficiency"
-      },
-      {
-        "name": "English",
+        "name": "EN",
         "level": "Limited working proficiency"
       },
       {
-        "name": "Galician",
+        "name": "ES",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "EU",
         "level": "Full professional proficiency"
       },
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
+        "name": "GL",
+        "level": "Full professional proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
+          "name": "API",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Axios",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bootstrap",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "ES6",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Github",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Laravel",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "React",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Jira",
           "type": "technology"
         }
       },
@@ -94,13 +86,73 @@
       },
       {
         "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "JSON",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Axios",
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jira",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Laravel",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MariaDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NPM",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHP",
           "type": "technology"
         }
       },
@@ -118,61 +170,7 @@
       },
       {
         "skill": {
-          "name": "API",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "HTML",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "CSS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Bootstrap",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Trello",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "NPM",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MySQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Git",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MariaDB",
+          "name": "React",
           "type": "technology"
         }
       },
@@ -184,14 +182,28 @@
       },
       {
         "skill": {
-          "name": "PHP",
+          "name": "Trello",
           "type": "technology"
+        }
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Pensamiento analítico",
+          "type": "practice"
         }
       },
       {
         "skill": {
-          "name": "NodeJS",
-          "type": "technology"
+          "name": "Resistencia a la frustración",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Trabajo en equipo",
+          "type": "practice"
         }
       }
     ]
@@ -200,8 +212,21 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/anagararna/"
+          "URL": "https://www.linkedin.com/in/anagararna/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/anagararna",
+          "type": "other"
+        }
+      ],
+      "contactMails": [
+        "anagararna@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "671694796",
+          "countryCode": "+34"
         }
       ]
     },
@@ -213,5 +238,9 @@
       ]
     },
     "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "Me gustaría  un trabajo que tuviera grandes retos tecnológicos. Tambien me parece importante trabajar con gente que sea referente en su area y tener una buena mentorización para poder crecer.",
+    "goodPractices": "\nIntento aplicar TDD tanto como puedo. Me parece importante redactar código bien documentado, ya sea porque es descriptivo, como por haber explicado qué buscaba en relación con la funcionalidad que buscaba implementar. Aprecio trabajar con programación en equipo. Por supuesto, sigo leyendo y aprendiendo a través de libros , eventos y cursos actualmente estoy haciendo uno de Python a traves de coursera.\n\n"
   }
 }
