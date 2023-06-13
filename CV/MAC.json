@@ -193,6 +193,18 @@
         }
       }
     ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Grado Superior, Diseño y amueblamiento",
+        "startDate": "2017-09-01",
+        "institution": {
+          "name": "CIFP Someso"
+        },
+        "finishDate": "2019-06-01"
+      }
+    ],
     "softSkills": [
       {
         "skill": {
