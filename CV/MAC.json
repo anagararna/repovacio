@@ -53,6 +53,23 @@
             "finishDate": "2017-12-01"
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Tower Consultores"
+        },
+        "roles": [
+          {
+            "name": "Comercial Télécom ",
+            "startDate": "2009-09-01",
+            "finishDate": "2010-12-01",
+            "challenges": [
+              {
+                "description": "Aptitudes: Negociación · Resolución de incidencias · Gestión empresarial · Toma de decisiones · Ventas · Orientación a objetivos · Negociación de contratos"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
