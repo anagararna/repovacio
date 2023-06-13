@@ -311,6 +311,20 @@
     "status": "searchingActively"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Github",
+        "type": "technology"
+      },
+      {
+        "name": "Jira",
+        "type": "technology"
+      },
+      {
+        "name": "React",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "Me gustaría  un trabajo que tuviera grandes retos tecnológicos. Tambien me parece importante trabajar con gente que sea referente en su area y tener una buena mentorización para poder crecer.",
     "goodPractices": "\nIntento aplicar TDD tanto como puedo. Me parece importante redactar código bien documentado, ya sea porque es descriptivo, como por haber explicado qué buscaba en relación con la funcionalidad que buscaba implementar. Aprecio trabajar con programación en equipo. Por supuesto, sigo leyendo y aprendiendo a través de libros , eventos y cursos actualmente estoy haciendo uno de Python a traves de coursera.\n\n"
   }
