@@ -191,6 +191,12 @@
           "name": "Trello",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "jQuery",
+          "type": "technology"
+        }
       }
     ],
     "studies": [
@@ -318,6 +324,10 @@
       },
       {
         "name": "Jira",
+        "type": "technology"
+      },
+      {
+        "name": "Laravel",
         "type": "technology"
       },
       {
