@@ -195,6 +195,17 @@
     ],
     "studies": [
       {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Bootcamp desarrollo web Full Stack 850h",
+        "startDate": "2022-10-01",
+        "institution": {
+          "name": "Factoria F5",
+          "description": "Historias de usuarios · Modelo-Vista-Controlador (MVC) · Integración · jQuery · Programación orientada a objetos (POO) · Diseño web adaptable · Diseño de front-end · Resolución de incidencias · Control de versiones · Node.js · Aplicaciones web · Desarrollo Full Stack · Desarrollo front end · HTML5 · JavaScript · Hojas de estilos en cascada (CSS) · SASS · Bootstrap · React.js · Testing Js · PHP · PhpMyAdmin · MySQL · PHPUnit · Laravel · API de Postman · Figma · penpot · Scrum · Metodologías ágiles · Atomic desing · Git · Despliegue de sistemas · Lucidchart · JIRA · GitHub"
+        },
+        "finishDate": "2023-06-01"
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Grado Superior, Diseño y amueblamiento",
